@@ -26,5 +26,7 @@
 </div>
 
 ---
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/id156601694)
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdwardRadzh&theme=github-light&hide_border=true&locale=ru)](https://git.io/streak-stats)
