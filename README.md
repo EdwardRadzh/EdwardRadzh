@@ -1,6 +1,6 @@
 ## Всем привет! :wave: Меня зовут Эдуард
 
-## Я - начинающий frontend разработчик и инжинер по тестированию
+## Я - начинающий frontend разработчик и инженер по тестированию
 
 
 ### :man_technologist: Обо мне :
@@ -26,7 +26,19 @@
 </div>
 
 ---
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/id156601694)
+
+<div id="badges">
+  <a href="https://vk.com/id156601694">
+  <img src="https://img.shields.io/badge/VKontakte-blue?logo=VKontakte&LogoColor=white&style=for-the-badge" alt="VKontakte badge"/>
+  </a>
+  <a href="https://t.me/creationdontknow">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&LogoColor=white&style=for-the-badge" alt="Telegram badges"/>
+  </a>
+  <a href="https://career.habr.com/notinkansas">
+  <img src="https://img.shields.io/badge/habr-blue?logo=habr&LogoColor=white&style=for-the-badge" alt="habr badges"/>
+  </a>
+</div>
+
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdwardRadzh&theme=github-light&hide_border=true&locale=ru)](https://git.io/streak-stats)
